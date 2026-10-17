@@ -1,3 +1,7 @@
+<!-- readme-visual-refresh:banner -->
+![pi — hand-drawn project banner](assets/readme/banner.svg)
+<!-- /readme-visual-refresh:banner -->
+
 <p align="center">
   <a href="https://pi.dev">
     <img alt="pi logo" src="https://pi.dev/logo-auto.svg" width="128">
@@ -113,3 +117,18 @@ MIT
   <br /><br />
   <a href="https://exe.dev"><img src="packages/coding-agent/docs/images/exy.png" alt="Exy mascot" width="48" /><br />exe.dev</a>
 </p>
+
+<!-- readme-visual-refresh:artwork-source -->
+[Editable banner artwork · Excalidraw](assets/readme/banner.excalidraw)
+<!-- /readme-visual-refresh:artwork-source -->
+
+
+<!-- readme-visual-refresh:selected-result -->
+
+## 已有界面与示例
+
+![Pi coding agent 的交互终端示例，包含读取 README 的工具调用与回复。](assets/readme/result.png)
+
+Pi coding agent 的交互终端示例，包含读取 README 的工具调用与回复。 该图为仓库已有上游示例，保留原有来源；本次仅整理展示，未重新运行。 [查看来源](https://github.com/GISWLH/pi/blob/main/packages/coding-agent/docs/images/interactive-mode.png)。
+
+<!-- /readme-visual-refresh:selected-result -->
